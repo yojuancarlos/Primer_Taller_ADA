@@ -1,5 +1,7 @@
 ## integrantes
-juancarlos saldarriaga urrea
+juancarlos saldarriaga urrea  
+
+
 valeria avila nieto
 ## Installations:
 The following installations are required to run this project:
